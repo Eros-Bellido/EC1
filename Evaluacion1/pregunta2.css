@@ -1,0 +1,8 @@
+input{
+    background-color: yellow;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(76, 189, 76);
+    display: flex;
+    text-align: center;
+}
